@@ -1,0 +1,15 @@
+{
+    "name": "ngohuunhut/generate",
+    "autoload": {
+        "psr-4": {
+            "Nhn\\Generate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngo Huu Nhut",
+            "email": "ngohuunhut16@gmail.com"
+        }
+    ],
+    "require": {}
+}
