@@ -11,5 +11,12 @@
             "email": "ngohuunhut16@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nhn\\Generate\\GenerateServiceProvider"
+            ]
+        }
+    }
 }
